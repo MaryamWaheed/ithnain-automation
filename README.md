@@ -1,2 +1,0 @@
-# ithnain-automation
-Automation Testing
